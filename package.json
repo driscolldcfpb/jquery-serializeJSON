@@ -1,7 +1,7 @@
 {
   "name": "jquery-serializeJSON",
-  "version": "0.2.1",
-  "description": "Serializes an HTML form to a JSON object",
+  "version": "0.2.2",
+  "description": "Serializes an HTML form to a JSON object forked from https://github.com/paulwib/jquery-serializeJSON ",
   "directories": {
     "test": "test"
   },
@@ -17,6 +17,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Paul Willoughby <paul@fivetide.com>",
+  "author": "David Driscoll <david.driscoll@cfpb.gov>",
   "license": "MIT"
 }

@@ -1,8 +1,8 @@
 {
   "name": "jquery-serializeJSON",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "authors": [
-    "Paul Willoughby <paul@fivetide.com>"
+    "David Driscoll <david.driscoll@cfpb.gov>"
   ],
   "description": "Convert form input values to a JSON object",
   "license": "MIT",
